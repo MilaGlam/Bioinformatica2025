@@ -103,6 +103,7 @@ Los resultados muestran valores de p extremadamente bajos para ambas proteínas:
      print(tukey_result)
  }
 ```
+## Resultados
 ![image](https://github.com/user-attachments/assets/0a85a78b-3b39-4b54-ad85-1c185a47af3f)
 ## Interpretación de ANOVA + Tukey 
 **Interpretación del resultado de Tukey HSD:**
